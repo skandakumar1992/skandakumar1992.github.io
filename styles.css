@@ -1,0 +1,48 @@
+/* General page styling */
+body {
+  font-family: system-ui, Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+/* Header section */
+header {
+  background-color: #4a90e2;
+  color: white;
+  padding: 2rem;
+  text-align: center;
+}
+
+/* Navigation bar */
+nav {
+  background-color: #333;
+  display: flex;
+  justify-content: center;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+  padding: 1rem;
+}
+nav a:hover {
+  background-color: #555;
+}
+
+/* Main content area */
+main {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+/* Footer section */
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  margin-top: 2rem;
+}
+
