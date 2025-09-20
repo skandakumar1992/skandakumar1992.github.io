@@ -1,0 +1,7 @@
+remote_theme: pages-themes/time-machine@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Skanda Kumar
+description:   “Motivative professional transition from a non-IT background to a career in DevOps. Skilled in problem solving and equipped foundational knowledge of DevOps tools and practices through hands-on projects. Looking to contribute to automation, CI/CD, and cloud-based infrastructure while continuing to grow in the field.”
+logo: /images/hs.jpg
+theme: jekyll-theme-minimal
