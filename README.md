@@ -22,6 +22,8 @@ Passionate DevOps Engineer with hands-on experience in building automated CI/CD 
 - Automated CI/CD pipeline with AWS, Git, Jenkins, Docker, Ansible, and Selenium for insurance system.
 
 ---
+## Certificate
+DevOps Course Completion with Star Agile Credential ID 301220246532
 
 ## 🛠️ Skills
 - **DevOps Tools:** Jenkins, GitHub Actions, Docker, Kubernetes, Ansible, Terraform
