@@ -24,7 +24,7 @@ Passionate DevOps Engineer with hands-on experience in building automated CI/CD 
 ---
 
 ## 🛠️ Skills
-- **DevOps Tools:** Jenkins, GitHub Actions, Docker, Kubernetes, Ansible, Terraform, Selenium
+- **DevOps Tools:** Jenkins, GitHub Actions, Docker, Kubernetes, Ansible, Terraform
 - **Cloud Platforms:** AWS (EC2, S3, VPC, EKS)
 - **Programming & Scripting:** Bash
 - **Monitoring & Logging:** Prometheus, Grafana
